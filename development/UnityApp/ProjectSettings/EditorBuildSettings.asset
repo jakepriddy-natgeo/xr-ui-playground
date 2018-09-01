@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/FABPop.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/StartScene.unity
+    guid: 2aeb389d5052041169f0e02f907368c4
+  - enabled: 0
+    path: Assets/Scenes/VuforiaDemoSceneV1.unity
+    guid: 52965594a564d4a3faa4417775384b58
+  - enabled: 1
+    path: Assets/Scenes/VuforiaDemoSceneV1.1.unity
+    guid: feebe42c9886e4129a200c992dc33fd3
+  m_configObjects: {}
