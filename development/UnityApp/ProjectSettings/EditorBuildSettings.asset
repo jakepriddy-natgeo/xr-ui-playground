@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/VuforiaDemoSceneV1.unity
     guid: 52965594a564d4a3faa4417775384b58
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VuforiaDemoSceneV1.1.unity
     guid: feebe42c9886e4129a200c992dc33fd3
+  - enabled: 1
+    path: Assets/Scenes/VuforiaDemoSceneV1.2.unity
+    guid: 60a6cc2250fe242ef8fa9b8bcb6e975a
   m_configObjects: {}
